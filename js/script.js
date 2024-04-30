@@ -152,7 +152,6 @@ async function displayShowDetails() {
   const showId = window.location.search.split('=')[1];
 
   const show = await fetchAPIData(`tv/${showId}`);
-console.log(show);
   // Overlay for background image
   displayBackgroundImage('show', show.backdrop_path);
 
