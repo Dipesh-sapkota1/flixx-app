@@ -458,6 +458,9 @@ function initSwiper() {
       disableOnInteraction: true,
     },
     breakpoints: {
+      250:{
+          slidesPerView: 1,
+      },
       500: {
         slidesPerView: 2,
       },
