@@ -141,6 +141,8 @@ ul {
   background: #0a4b8f;
 }
 
+
+
 /* Footer */
 .main-footer {
   background: #020d18;
@@ -216,6 +218,8 @@ section h2 {
 }
 
 /* Movie Details */
+ 
+
 .details-top {
   display: flex;
   justify-content: space-between;
@@ -236,9 +240,6 @@ section h2 {
 
 .details-top .btn {
   margin-top: 20px;
-}
-
-.details-bottom {
 }
 
 .details-bottom li {
@@ -328,16 +329,15 @@ section h2 {
 
 /* Alert */
 .alert {
-  background: red;
   padding: 10px 20px;
   margin-bottom: 20px;
   border-radius: 5px;
 }
 
-.alert-success {
+.success {
   background: green;
 }
 
-.alert-error {
+.error {
   background: red;
 }
