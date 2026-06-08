@@ -122,7 +122,10 @@ All data comes from [TMDB API v3](https://developers.themoviedb.org/3). Endpoint
 
 ## Screenshots
 
-> _Add screenshots of the home page, a detail page, and search results here._
+![Movies](images/scrnshots/movies.png)
+![Details](images/scrnshots/details.png)
+![Search](images/scrnshots/search.png)
+
 
 ---
 
